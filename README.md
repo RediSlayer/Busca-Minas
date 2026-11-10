@@ -11,9 +11,9 @@ A fully-featured, classic **Minesweeper** game developed entirely from scratch i
 
 ## 🛠️ Tech Stack
 - **Language:** Java
-- **UI & Layouts:** Java Swing (`JFrame`, `JPanel`, `JButton`, `JComboBox`, `JPopupMenu`, `GridLayout`, `CardLayout`)[cite: 2]
-- **Data Structures & Algorithms:** 2D Arrays (`int[][]`, `boolean[][]`), `ArrayList`, Recursion, Matrix Neighbor Iteration[cite: 2]
-- **Core Concepts:** Event-Driven Programming, Object-Oriented Programming (OOP), State Management, Concurrency (`javax.swing.Timer`)[cite: 2]
+- **UI & Layouts:** Java Swing (`JFrame`, `JPanel`, `JButton`, `JComboBox`, `JPopupMenu`, `GridLayout`, `CardLayout`)
+- **Data Structures & Algorithms:** 2D Arrays (`int[][]`, `boolean[][]`), `ArrayList`, Recursion, Matrix Neighbor Iteration
+- **Core Concepts:** Event-Driven Programming, Object-Oriented Programming (OOP), State Management, Concurrency (`javax.swing.Timer`)
 
 ## 🎮 How to Run
 1. Clone the repository:
