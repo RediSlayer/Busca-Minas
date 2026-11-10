@@ -10,7 +10,7 @@ A fully-featured, classic **Minesweeper** game developed entirely from scratch i
 - **View Management:** Uses `CardLayout` to seamlessly switch between the main configuration menu and the active game board within a single window frame[cite: 2].
 
 ## 🛠️ Tech Stack
-- **Language:** Java[cite: 2]
+- **Language:** Java
 - **UI & Layouts:** Java Swing (`JFrame`, `JPanel`, `JButton`, `JComboBox`, `JPopupMenu`, `GridLayout`, `CardLayout`)[cite: 2]
 - **Data Structures & Algorithms:** 2D Arrays (`int[][]`, `boolean[][]`), `ArrayList`, Recursion, Matrix Neighbor Iteration[cite: 2]
 - **Core Concepts:** Event-Driven Programming, Object-Oriented Programming (OOP), State Management, Concurrency (`javax.swing.Timer`)[cite: 2]
